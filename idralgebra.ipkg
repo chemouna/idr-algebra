@@ -1,0 +1,8 @@
+package idralgebra
+
+-- idr-algebra
+-- by Mouna Cheikhna
+
+opts = ""
+sourcedir = src
+modules = Idr.Algebra
